@@ -1,11 +1,11 @@
 {
-    "name": "Gittiom web app",
-    "short_name": "Gittiom web app",
+    "name": "glucoi_new_app",
+    "short_name": "glucoi_new_app",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#3FBF73",
-    "theme_color": "#3FBF73",
-    "description": "Gittiom web app.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
